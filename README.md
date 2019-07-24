@@ -1,7 +1,6 @@
 # Fajitas-Ritas-Redesign
 
-## Presentation: 
-[Fajitas & 'Ritas Redesign](https://docs.google.com/presentation/d/e/2PACX-1vQOFOPv12JgCQwAfhq4TO4zU3LifCmT3xE3_AxiGB9CmolpHbdPSmNo0CEErfaK4U6lvZF0VPypjK47/embed?start=false&loop=false&delayms=3000&slide=id.g25f6af9dd6_0_0)
+## Presentation: [Fajitas & 'Ritas Redesign](https://docs.google.com/presentation/d/e/2PACX-1vQOFOPv12JgCQwAfhq4TO4zU3LifCmT3xE3_AxiGB9CmolpHbdPSmNo0CEErfaK4U6lvZF0VPypjK47/embed?start=false&loop=false&delayms=3000&slide=id.g25f6af9dd6_0_0)
 
 ## Description:
 Fajitas and Ritas is a Texas-Mexican restaurant located in Downtown Boston known for their comfort, late-night food and great margaritas.
